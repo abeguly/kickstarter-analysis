@@ -8,9 +8,10 @@ Performing analysis on Kickstarter to uncover trends
 ### Purpose
 Attached is the analysis for Louise's play Fever fundraising. Based on Kickstarter dataset we analyzed how different campaigns fared in relation to their launch dates and their funding goals.
 
-<img src "resources/Outcomes_vs_Goals.png">
+<img src = "resources/Outcomes_vs_Goals.png">
 
 ## Analysis and Challenges
+To perform the following analysis we leveraged the Kickstarter dataset that included a listing of historical fundraising projects. Each fundraising project has the information around it's goal and pledged amount, associated country, deadline, category and subcatergory and etc. Considering that Louise's play Fever project falls under a theater category, we decided to narrow down our dataset to historical projects in theater categorry. For a further anakysis, we narrowed down our dataset to play sub-category to see any trends. 
 
 ### Analysis of Outcomes Based on Launch Date
 
