@@ -30,8 +30,8 @@ According to the Analysis of Outcomes Based on Launch Date, we concluded that th
 According to the Analysis of Outcomes Based on Goals, we concluded that play projects with a smaller dollar value goal (up to $5,000) have a higher chance of a successful outcome (more than 70%). 
 
 During our analysis the following limitations of the dataset were encountered:
-•	A limited number of historical data for theater campaigns that have goals that are higher than $30,000, as such high success rates for these ranges are not representative.
-•	Dataset is outdated and might not be relevant for the current environment. The period covered by the dataset is 2011-2017.
+*	A limited number of historical data for theater campaigns that have goals that are higher than $30,000, as such high success rates for these ranges are not representative.
+*	Dataset is outdated and might not be relevant for the current environment. The period covered by the dataset is 2011-2017.
 
 We suggest that the following possible tables and/or graphs could be beneficial for further analysis:
 * For Analysis of Outcomes Based on Launch Date add the percentage of outcomes rather than the number of outcomes
